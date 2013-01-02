@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.625,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.828,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.453,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\WowCharacterTalentSpec.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\WowCharacterStats.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.859,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.328,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.921,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.531,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit3.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\WowItemStatConverter.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\WowCharacter.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.dfm,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Main.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.531,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\colpick.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.343,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\superobject.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.359,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\superxmlparser.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.703,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Resources\Resources.rc=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.359,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Resources\Resources.rc</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.250,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\WowCharacterItems.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.234,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\WoWIndividualTalent.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\WoWTalents.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\SpecialCharacters.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.375,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\WowItemStats.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.625,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.531,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\colpick.dfm=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit3.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\Unit1.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Main.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.dproj,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Armory.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.312,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\WowFaction.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.421,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Treeview.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.953,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit2.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Treeview.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.812,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit2.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.968,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.171,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.pas,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit2.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\RetrieveData.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.234,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.dfm,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit2.dfm=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\RetrieveData.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.953,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit2.dfm=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Treeview.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.578,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\WowItem.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.812,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.828,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit4.dfm=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\WowCharLoadingForm.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.000,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit5.dfm=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Settings.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.000,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit5.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Settings.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.046,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit5.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.828,C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit4.pas=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\WowCharLoadingForm.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.968,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.343,=C:\Documents and Settings\Teun\Mijn documenten\RAD Studio\Projects\PersonalProj\Unit4.pas</Transaction>
+  </Transactions>
+</BorlandProject>
